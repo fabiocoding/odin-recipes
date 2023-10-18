@@ -1,0 +1,27 @@
+#centertitle{
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 40px;
+}
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+
+.writingcentered{
+text-align: center;
+}
+
+
+.circleimage{
+  text-align: center; /* Center the content horizontally */
+}
+
+img {
+  margin: 0 auto; /* Center the image horizontally using auto margins */
+  display: block; /* Remove any default inline layout */
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
+}
