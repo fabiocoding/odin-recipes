@@ -47,14 +47,13 @@ border-radius: 40%;
 
   }
 
-  .third{
-    height: 400px;
-    width: 400px;
-    border-radius: 40%;
-    }
+.third{
+  height: 400px;
+  width: 400px;
+  border-radius: 40%;
+  }
 
-    .recipepics {
-
-        display: flex;
-        justify-content: space-evenly;
-      }
+  .recipepics {
+  display: flex;
+  justify-content: space-evenly;
+  }
