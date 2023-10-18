@@ -1,0 +1,60 @@
+
+
+
+#middle{
+text-align:center;
+font-family: 'Rampart One', sans-serif;
+}
+
+#openingpara{
+font-size: 12px;
+text-align: center;
+font-size: 26px;
+font-family: 'Roboto Slab', serif;
+}
+
+.secondpara{
+  font-size: 12px;
+  text-align: center;
+  font-size: 26px;
+  font-family: 'Roboto Slab', serif;
+  color: green;
+
+}
+
+#bannerpic{
+width: 442px;
+height: 400px;
+}
+
+
+
+#fabfoodie{
+text-align:left;
+font-family: 'Fredericka the Great', serif;
+}
+
+.first{
+height: 400px;
+width: 400px;
+border-radius: 40%;
+}
+
+.second{
+  height: 400px;
+  width: 400px;
+  border-radius: 40%;
+
+  }
+
+  .third{
+    height: 400px;
+    width: 400px;
+    border-radius: 40%;
+    }
+
+    .recipepics {
+
+        display: flex;
+        justify-content: space-evenly;
+      }
