@@ -25,3 +25,10 @@ img {
   height: 400px;
   width: 400px;
 }
+
+body {
+  background-image: url('papper.png');
+  background-size: cover; /* Adjust to your needs (cover, contain, auto, etc.) */
+  background-position: center center; /* Adjust the position */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+}
